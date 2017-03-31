@@ -178,6 +178,22 @@
         //listen for clicks on tabs
         tabLinks = document.getElementById("tabs").getElementsByTagName("li");
         tabPanels = document.getElementById("containers").getElementsByTagName("div");
+
+        //activate the _ first _ one
+        displayPanel(tabLinks[0]);
+
+        //attache event listener to links using onclick and onfocus, fire the displaypanel function, return false to disalble the link
+        for (var i = 0; i < tabLinks.length; i++) {
+            tabLinks[i].onclick = function () {
+                displayPanel(this);
+                return false;
+            }
+
+            tabLinks[i].onfocus = function () {
+                displayPanel(this);
+                return false;
+            }
+        }
     }
 
     function displayPanel() {
