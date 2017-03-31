@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="04270172-74d9-40dd-a840-6d2e39e6b855" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_04/type.htm" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_04/type.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_05/color.htm" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_05/color.htm" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +19,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="type.htm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="type.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_04/type.htm">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="color.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_05/color.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -61,6 +71,7 @@
         <option value="$PROJECT_DIR$/HTML/Main/05_04/fragments.htm" />
         <option value="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_03/style.htm" />
         <option value="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_04/type.htm" />
+        <option value="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_05/color.htm" />
       </list>
     </option>
   </component>
@@ -200,7 +211,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="07_04" />
+              <option name="myItemId" value="07_05" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -674,7 +685,7 @@
       <workItem from="1490367234832" duration="4110000" />
       <workItem from="1490388870739" duration="203000" />
       <workItem from="1490621518866" duration="340000" />
-      <workItem from="1490977764638" duration="1146000" />
+      <workItem from="1490977764638" duration="1695000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <created>1488574391404</created>
@@ -697,11 +708,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490978352888</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="CSS Intro">
+      <created>1490978931199</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1490978931199</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10548000" />
+    <option name="totallyTimeSpent" value="11097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="186" y="23" width="1440" height="801" extended-state="0" />
@@ -745,8 +763,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="stuff" />
+    <MESSAGE value="CSS Intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS Intro" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -990,6 +1011,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_05/color.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding />
         </state>
       </provider>
