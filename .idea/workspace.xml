@@ -2,303 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04270172-74d9-40dd-a840-6d2e39e6b855" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_08/_images/lowcountry.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_08/_images/sc_flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_08/finished_files/_images/lowcountry.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_08/finished_files/_images/sc_flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_03/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_03/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_03/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_03/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_04/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_04/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_04/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_04/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_05/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_05/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_05/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_05/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_06/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_06/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_06/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_06/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_08/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_08/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_08/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_08/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_09/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_09/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_09/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_09/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_03/_assets/syntax.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_03/_assets/syntax.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_03/finished_files/_assets/syntax.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_03/finished_files/_assets/syntax.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_01/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_01/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_03/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_03/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_03/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_03/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_04/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_04/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_04/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_04/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_05/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_05/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_05/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_05/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_06/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_06/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_06/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_06/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_07/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_07/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_07/finished_files/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_07/finished_files/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/site/_images/200px-W3C_Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/site/_images/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_01/01_02/finished_files/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_01/01_02/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_02/02_01/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_02/02_02/doctype.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_02/02_02/finished_files/doctype.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_02/02_03/finished_files/head.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_02/02_03/head.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_02/02_04/body.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_02/02_04/finished_files/body.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_02/02_05/models.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_01/finished_files/format.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_01/format.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_02/finished_files/headings.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_02/headings.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_03/finished_files/paragraphs.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_03/paragraphs.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_04/breaks.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_04/finished_files/breaks.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_05/emphasis.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_05/finished_files/emphasis.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_06/finished_files/special.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_06/special.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_07/finished_files/whitespace.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_07/whitespace.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_08/finished_files/images.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_08/images.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/finished_files/intro.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/finished_files/lab_instructions.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/finished_files/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/finished_files/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/finished_files/reference.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/finished_files/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/finished_files/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/intro.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/lab_instructions.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/reference.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_03/03_09/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_02/Outline.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_02/finished_files/Outline.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_03/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_03/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_03/finished_files/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_03/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_04/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_04/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_04/finished_files/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_04/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_05/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_05/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_05/finished_files/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_05/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_06/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_06/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_06/finished_files/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_06/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_07/blog.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_07/finished_files/blog.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_08/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_08/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_08/finished_files/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_08/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_09/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_09/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_09/finished_files/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_09/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/finished_files/intro.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/finished_files/lab_instructions.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/finished_files/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/finished_files/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/finished_files/reference.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/finished_files/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/finished_files/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/intro.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/lab_instructions.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/reference.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_04/04_10/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_01/finished_files/info/about.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_01/finished_files/info/extras/resources.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_01/finished_files/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_01/finished_files/same.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_01/info/about.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_01/info/extras/resources.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_01/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_01/same.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_02/absolute.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_02/finished_files/absolute.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_03/finished_files/resource.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_03/resource.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_04/destination.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_04/finished_files/destination.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_04/finished_files/fragments.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_04/fragments.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/finished_files/intro.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/finished_files/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/finished_files/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/finished_files/reference.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/finished_files/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/finished_files/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/intro.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/lab_instructions.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/reference.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_05/05_05/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_01/finished_files/unordered.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_01/unordered.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_02/finished_files/ordered.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_02/ordered.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_03/description.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_03/finished_files/description.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/finished_files/intro.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/finished_files/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/finished_files/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/finished_files/reference.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/finished_files/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/finished_files/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/intro.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/lab_instructions.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/reference.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_06/06_04/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_01/styles.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_02/finished_files/inline.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_02/inline.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_03/fnished_files/style.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_03/style.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_04/finished_files/type.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_04/type.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_05/color.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_05/finished_files/color.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/external.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/finished_files/external.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/finished_files/page2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/finished_files/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/page2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/finished_files/intro.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/finished_files/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/finished_files/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/finished_files/reference.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/finished_files/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/finished_files/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/intro.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/lab_instructions.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/reference.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_07/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_01/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_01/_scripts/tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_01/intro.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_01/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_01/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_01/reference.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_01/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_01/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/finished_files/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_03/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_03/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_03/finished_files/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_03/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_04/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_04/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_04/finished_files/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_04/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_05/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_05/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_05/finished_files/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_05/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_06/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_06/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_06/finished_files/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_06/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_07/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_07/finished_files/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_07/finished_files/_scripts/tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_07/finished_files/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_07/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/site/_css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/site/_scripts/tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/site/intro.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/site/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/site/next.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/site/reference.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/site/structure.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/site/syntax.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/info/about.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/info/extras/resources.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/links.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/same.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/Main/02_02.html" afterPath="$PROJECT_DIR$/HTML/Main/02_02.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/Main/structure.htm" afterPath="$PROJECT_DIR$/HTML/Main/structure.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lynda Courses.iml" afterPath="$PROJECT_DIR$/Lynda Courses.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_04/type.htm" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_04/type.htm" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -317,8 +22,8 @@
       <file leaf-file-name="type.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_04/type.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -969,7 +674,7 @@
       <workItem from="1490367234832" duration="4110000" />
       <workItem from="1490388870739" duration="203000" />
       <workItem from="1490621518866" duration="340000" />
-      <workItem from="1490977764638" duration="532000" />
+      <workItem from="1490977764638" duration="1146000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <created>1488574391404</created>
@@ -985,11 +690,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488824308455</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="stuff">
+      <created>1490978352888</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1490978352888</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9934000" />
+    <option name="totallyTimeSpent" value="10548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="186" y="23" width="1440" height="801" extended-state="0" />
@@ -1276,8 +988,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_04/type.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
           <folding />
         </state>
       </provider>
