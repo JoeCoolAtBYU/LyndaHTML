@@ -173,7 +173,7 @@
     var tabLinks;
     var tabPanels;
 
-    window.onload() = function () {
+    window.onload = function () {
         //set initial panel state
         //listen for clicks on tabs
         tabLinks = document.getElementById("tabs").getElementsByTagName("li");
@@ -196,9 +196,22 @@
         }
     }
 
-    function displayPanel() {
+    function displayPanel(tabToActivate) {
         //respond to tab clicks
         //change panel display and activate tabs
+        for (var i = 0; i = tabLinks.length; i++){
+            if (tabLinks[i] == tabToActivate){
+                //if it the one to activate, change its class
+                tabLinks[i].classList.add("active");
+                //and display the corrosponding panel
+                tabPanels[i].style.display = "block";
+            } else {
+                //remove the active class on the link
+                tabLinks[i].classList.remove("active");
+                //hide the panel
+                tabPanels[i].style.display="none";
+            }
+        }
     }
 </script>
 </body>
