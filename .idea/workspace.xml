@@ -22,8 +22,8 @@
       <file leaf-file-name="next.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/next.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="655">
-              <caret line="178" column="48" lean-forward="false" selection-start-line="178" selection-start-column="48" selection-end-line="178" selection-end-column="48" />
+            <state relative-caret-position="456">
+              <caret line="179" column="86" lean-forward="false" selection-start-line="179" selection-start-column="86" selection-end-line="179" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -679,7 +679,7 @@
       <workItem from="1490367234832" duration="4110000" />
       <workItem from="1490388870739" duration="203000" />
       <workItem from="1490621518866" duration="340000" />
-      <workItem from="1490977764638" duration="3081000" />
+      <workItem from="1490977764638" duration="3514000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <created>1488574391404</created>
@@ -723,11 +723,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490980824849</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Javascript start">
+      <created>1490982090968</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1490982090968</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12483000" />
+    <option name="totallyTimeSpent" value="12916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="186" y="23" width="1440" height="801" extended-state="0" />
@@ -776,7 +783,8 @@
     <MESSAGE value="CSS Intro" />
     <MESSAGE value="CSS color" />
     <MESSAGE value="CSS external" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS external" />
+    <MESSAGE value="Javascript start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javascript start" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1065,10 +1073,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="760" column="0" lean-forward="false" selection-start-line="760" selection-start-column="0" selection-end-line="760" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/next.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="178" column="48" lean-forward="false" selection-start-line="178" selection-start-column="48" selection-end-line="178" selection-end-column="48" />
+        <state relative-caret-position="456">
+          <caret line="179" column="86" lean-forward="false" selection-start-line="179" selection-start-column="86" selection-end-line="179" selection-end-column="86" />
           <folding />
         </state>
       </provider>
