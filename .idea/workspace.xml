@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04270172-74d9-40dd-a840-6d2e39e6b855" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/external.htm" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/external.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/page2.htm" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/page2.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/next.htm" afterPath="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/next.htm" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,31 +19,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="external.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/external.htm">
+      <file leaf-file-name="next.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/next.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page2.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/page2.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="655">
+              <caret line="178" column="48" lean-forward="false" selection-start-line="178" selection-start-column="48" selection-end-line="178" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -87,6 +65,7 @@
         <option value="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/external.htm" />
         <option value="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/page2.htm" />
         <option value="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/styles.css" />
+        <option value="$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/next.htm" />
       </list>
     </option>
   </component>
@@ -196,7 +175,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter_07" />
+              <option name="myItemId" value="Chapter_08" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -222,11 +201,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter_07" />
+              <option name="myItemId" value="Chapter_08" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="07_06" />
+              <option name="myItemId" value="08_02" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -700,7 +679,7 @@
       <workItem from="1490367234832" duration="4110000" />
       <workItem from="1490388870739" duration="203000" />
       <workItem from="1490621518866" duration="340000" />
-      <workItem from="1490977764638" duration="2086000" />
+      <workItem from="1490977764638" duration="3081000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <created>1488574391404</created>
@@ -737,11 +716,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490980431372</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="CSS external">
+      <created>1490980824849</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1490980824849</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11488000" />
+    <option name="totallyTimeSpent" value="12483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="186" y="23" width="1440" height="801" extended-state="0" />
@@ -789,7 +775,8 @@
     <MESSAGE value="stuff" />
     <MESSAGE value="CSS Intro" />
     <MESSAGE value="CSS color" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS color" />
+    <MESSAGE value="CSS external" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS external" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1054,6 +1041,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_01/next.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/page2.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1062,10 +1065,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_07/07_06/styles.css">
+    <entry file="file://$PROJECT_DIR$/HTML/Main/HTML Lynda/Chapter_08/08_02/next.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        <state relative-caret-position="655">
+          <caret line="178" column="48" lean-forward="false" selection-start-line="178" selection-start-column="48" selection-end-line="178" selection-end-column="48" />
           <folding />
         </state>
       </provider>
